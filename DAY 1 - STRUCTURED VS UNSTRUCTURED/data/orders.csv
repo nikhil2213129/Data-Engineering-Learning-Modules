@@ -1,0 +1,101 @@
+order_id,product,region,quantity,unit_price,order_date
+ORD-00000,Monitor_with_extended_description,North_with_extended_description,48,282.27,2024-04-24
+ORD-00001,Keyboard_with_extended_description,North_with_extended_description,44,743.25,2024-10-06
+ORD-00002,Monitor_with_extended_description,West_with_extended_description,3,39.49,2024-04-21
+ORD-00003,Mouse_with_extended_description,North_with_extended_description,36,206.84,2024-11-28
+ORD-00004,Speaker_with_extended_description,West_with_extended_description,15,454.71,2024-05-22
+ORD-00005,Laptop_with_extended_description,South_with_extended_description,45,428.38,2024-05-22
+ORD-00006,Keyboard_with_extended_description,South_with_extended_description,49,343.22,2024-02-17
+ORD-00007,USB Hub_with_extended_description,North_with_extended_description,23,849.01,2024-11-05
+ORD-00008,Headset_with_extended_description,North_with_extended_description,47,464.82,2024-03-04
+ORD-00009,USB Hub_with_extended_description,North_with_extended_description,36,300.24,2024-11-17
+ORD-00010,Tablet_with_extended_description,East_with_extended_description,37,200.36,2024-02-05
+ORD-00011,Laptop_with_extended_description,South_with_extended_description,50,296.48,2024-02-10
+ORD-00012,Mouse_with_extended_description,North_with_extended_description,25,285.18,2024-11-21
+ORD-00013,Webcam_with_extended_description,South_with_extended_description,24,361.71,2024-12-09
+ORD-00014,Headset_with_extended_description,North_with_extended_description,39,638.62,2024-09-30
+ORD-00015,Mouse_with_extended_description,South_with_extended_description,30,385.65,2024-11-23
+ORD-00016,Speaker_with_extended_description,South_with_extended_description,44,331.03,2024-01-29
+ORD-00017,Mouse_with_extended_description,North_with_extended_description,21,407.14,2024-02-03
+ORD-00018,Mouse_with_extended_description,East_with_extended_description,14,658.87,2024-07-21
+ORD-00019,Desk Lamp_with_extended_description,South_with_extended_description,17,148.22,2024-10-14
+ORD-00020,Speaker_with_extended_description,East_with_extended_description,48,588.73,2024-10-25
+ORD-00021,USB Hub_with_extended_description,East_with_extended_description,15,997.34,2024-03-11
+ORD-00022,Speaker_with_extended_description,West_with_extended_description,6,758.21,2024-02-26
+ORD-00023,Keyboard_with_extended_description,South_with_extended_description,44,427.93,2024-02-02
+ORD-00024,USB Hub_with_extended_description,West_with_extended_description,39,996.15,2024-09-27
+ORD-00025,Headset_with_extended_description,North_with_extended_description,44,723.5,2024-12-15
+ORD-00026,Speaker_with_extended_description,East_with_extended_description,50,644.54,2024-02-27
+ORD-00027,Headset_with_extended_description,West_with_extended_description,11,459.18,2024-05-14
+ORD-00028,Speaker_with_extended_description,South_with_extended_description,33,913.49,2024-11-16
+ORD-00029,Headset_with_extended_description,South_with_extended_description,10,380.16,2024-03-23
+ORD-00030,Speaker_with_extended_description,North_with_extended_description,39,330.9,2024-01-10
+ORD-00031,Monitor_with_extended_description,East_with_extended_description,20,247.05,2024-05-03
+ORD-00032,Tablet_with_extended_description,North_with_extended_description,6,734.58,2024-02-05
+ORD-00033,Speaker_with_extended_description,South_with_extended_description,9,663.14,2024-10-08
+ORD-00034,Keyboard_with_extended_description,East_with_extended_description,34,873.7,2024-08-04
+ORD-00035,Mouse_with_extended_description,South_with_extended_description,46,318.59,2024-12-09
+ORD-00036,Webcam_with_extended_description,West_with_extended_description,34,456.96,2024-05-06
+ORD-00037,Mouse_with_extended_description,North_with_extended_description,22,30.81,2024-10-10
+ORD-00038,Mouse_with_extended_description,South_with_extended_description,1,80.27,2024-11-19
+ORD-00039,Laptop_with_extended_description,South_with_extended_description,5,906.36,2024-06-18
+ORD-00040,Monitor_with_extended_description,South_with_extended_description,18,672.28,2024-04-19
+ORD-00041,Speaker_with_extended_description,South_with_extended_description,47,936.15,2024-10-19
+ORD-00042,Tablet_with_extended_description,West_with_extended_description,16,786.76,2024-07-27
+ORD-00043,Mouse_with_extended_description,North_with_extended_description,7,662.38,2024-06-30
+ORD-00044,USB Hub_with_extended_description,West_with_extended_description,30,865.19,2024-01-28
+ORD-00045,Monitor_with_extended_description,North_with_extended_description,26,730.92,2024-02-25
+ORD-00046,Mouse_with_extended_description,South_with_extended_description,13,540.91,2024-03-12
+ORD-00047,USB Hub_with_extended_description,South_with_extended_description,18,467.99,2024-02-08
+ORD-00048,Desk Lamp_with_extended_description,North_with_extended_description,4,655.61,2024-10-03
+ORD-00049,Laptop_with_extended_description,North_with_extended_description,49,850.2,2024-03-26
+ORD-00050,USB Hub_with_extended_description,West_with_extended_description,31,221.6,2024-07-24
+ORD-00051,Laptop_with_extended_description,South_with_extended_description,25,12.12,2024-07-18
+ORD-00052,Headset_with_extended_description,West_with_extended_description,19,428.77,2024-10-11
+ORD-00053,Desk Lamp_with_extended_description,South_with_extended_description,13,303.73,2024-01-30
+ORD-00054,Tablet_with_extended_description,North_with_extended_description,48,320.46,2024-01-26
+ORD-00055,Tablet_with_extended_description,West_with_extended_description,33,920.18,2024-09-28
+ORD-00056,Keyboard_with_extended_description,North_with_extended_description,33,89.3,2024-04-05
+ORD-00057,Monitor_with_extended_description,North_with_extended_description,44,863.19,2024-07-25
+ORD-00058,Monitor_with_extended_description,South_with_extended_description,38,598.56,2024-11-13
+ORD-00059,Monitor_with_extended_description,West_with_extended_description,43,587.83,2024-09-24
+ORD-00060,Webcam_with_extended_description,East_with_extended_description,14,673.02,2024-06-09
+ORD-00061,Mouse_with_extended_description,East_with_extended_description,26,139.56,2024-11-26
+ORD-00062,Headset_with_extended_description,West_with_extended_description,21,929.72,2024-02-07
+ORD-00063,Laptop_with_extended_description,West_with_extended_description,40,998.46,2024-02-21
+ORD-00064,Monitor_with_extended_description,South_with_extended_description,33,272.54,2024-06-27
+ORD-00065,Monitor_with_extended_description,South_with_extended_description,24,292.13,2024-08-12
+ORD-00066,Speaker_with_extended_description,East_with_extended_description,40,984.0,2024-11-30
+ORD-00067,Speaker_with_extended_description,North_with_extended_description,43,818.92,2024-06-02
+ORD-00068,Monitor_with_extended_description,South_with_extended_description,17,124.26,2024-02-24
+ORD-00069,Speaker_with_extended_description,South_with_extended_description,18,288.93,2024-04-17
+ORD-00070,Webcam_with_extended_description,South_with_extended_description,44,637.89,2024-05-15
+ORD-00071,Speaker_with_extended_description,West_with_extended_description,17,906.27,2024-01-27
+ORD-00072,Monitor_with_extended_description,West_with_extended_description,18,53.64,2024-06-19
+ORD-00073,Keyboard_with_extended_description,East_with_extended_description,11,743.81,2024-10-09
+ORD-00074,USB Hub_with_extended_description,North_with_extended_description,8,84.48,2024-12-19
+ORD-00075,Keyboard_with_extended_description,North_with_extended_description,24,586.67,2024-03-16
+ORD-00076,USB Hub_with_extended_description,South_with_extended_description,3,315.17,2024-01-21
+ORD-00077,Webcam_with_extended_description,South_with_extended_description,44,257.02,2024-02-22
+ORD-00078,Webcam_with_extended_description,West_with_extended_description,40,751.97,2024-05-01
+ORD-00079,Keyboard_with_extended_description,South_with_extended_description,27,34.53,2024-06-19
+ORD-00080,USB Hub_with_extended_description,South_with_extended_description,18,167.6,2024-12-25
+ORD-00081,Monitor_with_extended_description,West_with_extended_description,3,860.0,2024-04-23
+ORD-00082,Mouse_with_extended_description,West_with_extended_description,23,312.13,2024-04-26
+ORD-00083,Mouse_with_extended_description,North_with_extended_description,43,201.19,2024-06-17
+ORD-00084,Headset_with_extended_description,North_with_extended_description,50,286.32,2024-11-24
+ORD-00085,Speaker_with_extended_description,West_with_extended_description,44,981.33,2024-10-01
+ORD-00086,Webcam_with_extended_description,North_with_extended_description,8,878.26,2024-05-13
+ORD-00087,Keyboard_with_extended_description,East_with_extended_description,3,117.31,2024-08-10
+ORD-00088,Webcam_with_extended_description,East_with_extended_description,28,610.14,2024-09-18
+ORD-00089,Monitor_with_extended_description,West_with_extended_description,37,198.17,2024-01-23
+ORD-00090,USB Hub_with_extended_description,North_with_extended_description,34,926.31,2024-10-02
+ORD-00091,Mouse_with_extended_description,East_with_extended_description,28,79.26,2024-12-06
+ORD-00092,Webcam_with_extended_description,East_with_extended_description,43,849.53,2024-06-02
+ORD-00093,Speaker_with_extended_description,East_with_extended_description,43,414.3,2024-07-25
+ORD-00094,Headset_with_extended_description,South_with_extended_description,13,426.23,2024-07-13
+ORD-00095,Keyboard_with_extended_description,East_with_extended_description,26,552.45,2024-01-01
+ORD-00096,Headset_with_extended_description,East_with_extended_description,14,435.58,2024-10-23
+ORD-00097,Tablet_with_extended_description,East_with_extended_description,30,447.36,2024-12-11
+ORD-00098,Mouse_with_extended_description,West_with_extended_description,48,177.98,2024-02-13
+ORD-00099,Headset_with_extended_description,East_with_extended_description,6,820.23,2024-04-30
